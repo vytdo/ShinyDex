@@ -156,8 +156,8 @@
         "id": 13,
         "num" : "013",
         "name" : "Weedle",
-        "shinyimg" : "https://www.serebii.net/Shiny/SWSH/013.png",
-        "normalimg" : "https://www.serebii.net/swordshield/pokemon/013.png",
+        "shinyimg" : "https://www.serebii.net/pokemongo/pokemon/013.png",
+        "normalimg" : "https://www.serebii.net/pokemongo/pokemon/shiny/013.png",
         "type" : [
             "Bug",
             "Poison"
