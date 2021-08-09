@@ -1,5 +1,6 @@
-[
-    {
+{
+"pokemon": [
+   {
         "id" : 1,
         "num" : "001",
         "name" : "Bulbasaur",
@@ -38,6 +39,83 @@
         ],
         "egg" : "Null"
 
+    },
+
+    {
+        "id" : 4,
+        "num" : "004",
+        "name" : "Charmander",
+        "shinyimg" : "https://www.serebii.net/Shiny/SWSH/004.png",
+        "normalimg" : "https://www.serebii.net/swordshield/pokemon/004.png",
+        "type": [
+            "Fire"
+        ] ,
+        "egg" : "2 km"
+    },
+
+    {
+        "id" : 5,
+        "num" : "005",
+        "name" : "Charmeleon",
+        "shinyimg" : "https://www.serebii.net/Shiny/SWSH/005.png",
+        "normalimg" : "https://www.serebii.net/swordshield/pokemon/005.png",
+        "type": [
+            "Fire"
+        ],
+        "egg" : "Null"
+    },
+
+    {
+        "id": 6,
+        "num" : "006",
+        "name" : "Charizard",
+        "shinyimg" : "https://www.serebii.net/Shiny/SWSH/006.png",
+        "normalimg" : "https://www.serebii.net/swordshield/pokemon/006.png",
+        "type" : [
+            "Fire",
+            "Flying"
+        ],
+        "egg" : "Null"
+    },
+
+    {
+        "id": 7,
+        "num" : "007",
+        "name" : "Squirtle",
+        "shinyimg" : "https://www.serebii.net/Shiny/SWSH/007.png",
+        "normalimg" : "https://www.serebii.net/swordshield/pokemon/007.png",
+        "type" : [
+            "Water"
+        ],
+        "egg" : "2km"
+    },
+
+    {
+        "id": 8,
+        "num" : "008",
+        "name" : "Wartortle",
+        "shinyimg" : "https://www.serebii.net/Shiny/SWSH/008.png",
+        "normalimg" : "https://www.serebii.net/swordshield/pokemon/008.png",
+        "type" : [
+            "Fire",
+            "Flying"
+        ],
+        "egg" : "Null"
+    },
+
+    {
+        "id": 9,
+        "num" : "009",
+        "name" : "Blastoise",
+        "shinyimg" : "https://www.serebii.net/Shiny/SWSH/009.png",
+        "normalimg" : "https://www.serebii.net/swordshield/pokemon/009.png",
+        "type" : [
+            "Water"
+        ],
+        "egg" : "Null"
     }
-    
+
+
 ]
+
+}
