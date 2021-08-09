@@ -1,0 +1,43 @@
+[
+    {
+        "id" : 1,
+        "num" : "001",
+        "name" : "Bulbasaur",
+        "shinyimg" : "https://www.serebii.net/Shiny/SWSH/001.png",
+        "normalimg" : "https://www.serebii.net/swordshield/pokemon/001.png",
+        "type" : [
+            "Grass",
+            "Poison"
+        ],
+        "egg" : "2 km"
+    },
+
+    {
+        "id" : 2,
+        "num" : "002",
+        "name" : "Ivysaur",
+        "shinyimg" : "https://www.serebii.net/Shiny/SWSH/002.png",
+        "normalimg" : "https://www.serebii.net/swordshield/pokemon/002.png",
+        "type" : [
+            "Grass",
+            "Poison"
+        ],
+        "egg" : "Null"
+
+    },
+
+    {
+        "id" : 3,
+        "num" : "003",
+        "name" : "Venusaur",
+        "shinyimg" : "https://www.serebii.net/Shiny/SWSH/003.png",
+        "normalimg" : "https://www.serebii.net/swordshield/pokemon/003.png",
+        "type" : [
+            "Grass",
+            "Poison"
+        ],
+        "egg" : "Null"
+
+    }
+    
+]
