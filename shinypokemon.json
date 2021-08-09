@@ -113,6 +113,82 @@
             "Water"
         ],
         "egg" : "Null"
+    },
+
+    {
+        "id": 10,
+        "num" : "010",
+        "name" : "Caterpie",
+        "shinyimg" : "https://www.serebii.net/Shiny/SWSH/010.png",
+        "normalimg" : "https://www.serebii.net/swordshield/pokemon/010.png",
+        "type" : [
+            "Bug"
+        ],
+        "egg" : "2 km"
+    },
+
+    {
+        "id": 11,
+        "num" : "011",
+        "name" : "Metapod",
+        "shinyimg" : "https://www.serebii.net/Shiny/SWSH/011.png",
+        "normalimg" : "https://www.serebii.net/swordshield/pokemon/011.png",
+        "type" : [
+            "Bug"
+        ],
+        "egg" : "Null"
+    },
+
+    {
+        "id": 12,
+        "num" : "012",
+        "name" : "Butterfree",
+        "shinyimg" : "https://www.serebii.net/Shiny/SWSH/012.png",
+        "normalimg" : "https://www.serebii.net/swordshield/pokemon/012.png",
+        "type" : [
+            "Bug",
+            "Flying"
+        ],
+        "egg" : "Null"
+    },
+
+    {
+        "id": 13,
+        "num" : "013",
+        "name" : "Weedle",
+        "shinyimg" : "https://www.serebii.net/Shiny/SWSH/013.png",
+        "normalimg" : "https://www.serebii.net/swordshield/pokemon/013.png",
+        "type" : [
+            "Bug",
+            "Poison"
+        ],
+        "egg" : "2 km"
+    },
+
+    {
+        "id": 14,
+        "num" : "014",
+        "name" : "Kakuna",
+        "shinyimg" : "https://www.serebii.net/Shiny/SWSH/014.png",
+        "normalimg" : "https://www.serebii.net/swordshield/pokemon/014.png",
+        "type" : [
+            "Bug",
+            "Poison"
+        ],
+        "egg" : "Null"
+    },
+
+    {
+        "id": 15,
+        "num" : "015",
+        "name" : "Beedrill",
+        "shinyimg" : "https://www.serebii.net/Shiny/SWSH/015.png",
+        "normalimg" : "https://www.serebii.net/swordshield/pokemon/015.png",
+        "type" : [
+            "Bug",
+            "Posion"
+        ],
+        "egg" : "Null"
     }
 
 
