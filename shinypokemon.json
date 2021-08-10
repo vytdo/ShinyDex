@@ -583,8 +583,8 @@
         "id": 47,
         "num" : "047",
         "name" : "Parasect",
-        "shinyimg" : "https://www.serebii.net/Shiny/SWSH/047.png",
-        "normalimg" : "https://www.serebii.net/swordshield/pokemon/047.png",
+        "shinyimg" : "https://www.serebii.net/pokemongo/pokemon/shiny/047.png",
+        "normalimg" : "https://www.serebii.net/pokemongo/pokemon/047.png",
         "type" : [
             "Bug",
             "Grass"
@@ -596,8 +596,8 @@
         "id": 48,
         "num" : "048",
         "name" : "Venonat",
-        "shinyimg" : "https://www.serebii.net/Shiny/SWSH/048.png",
-        "normalimg" : "https://www.serebii.net/swordshield/pokemon/048.png",
+        "shinyimg" : "https://www.serebii.net/pokemongo/pokemon/shiny/048.png",
+        "normalimg" : "https://www.serebii.net/pokemongo/pokemon/048.png",
         "type" : [
             "Bug",
             "Posion"
@@ -609,8 +609,8 @@
         "id": 49,
         "num" : "049",
         "name" : "Venomoth",
-        "shinyimg" : "https://www.serebii.net/Shiny/SWSH/049.png",
-        "normalimg" : "https://www.serebii.net/swordshield/pokemon/049.png",
+        "shinyimg" : "https://www.serebii.net/pokemongo/pokemon/shiny/049.png",
+        "normalimg" : "https://www.serebii.net/pokemongo/pokemon/049.png",
         "type" : [
             "Bug",
             "Posion"
@@ -1046,8 +1046,8 @@
         "id": 84,
         "num" : "084",
         "name" : "Doduo",
-        "shinyimg" : "https://www.serebii.net/Shiny/SWSH/084.png",
-        "normalimg" : "https://www.serebii.net/swordshield/pokemon/084.png",
+        "shinyimg" : "https://www.serebii.net/pokemongo/pokemon/shiny/084.png",
+        "normalimg" : "https://www.serebii.net/pokemongo/pokemon/084.png",
         "type" : [
             "Normal",
             "Flying"
@@ -1059,8 +1059,8 @@
         "id": 85,
         "num" : "085",
         "name" : "Dodrio",
-        "shinyimg" : "https://www.serebii.net/Shiny/SWSH/085.png",
-        "normalimg" : "https://www.serebii.net/swordshield/pokemon/085.png",
+        "shinyimg" : "https://www.serebii.net/pokemongo/pokemon/shiny/085.png",
+        "normalimg" : "https://www.serebii.net/pokemongo/pokemon/085.png",
         "type" : [
             "Normal",
             "Flying"
@@ -1198,8 +1198,8 @@
         "id": 96,
         "num" : "096",
         "name" : "Drowzee",
-        "shinyimg" : "https://www.serebii.net/Shiny/SWSH/096.png",
-        "normalimg" : "https://www.serebii.net/swordshield/pokemon/096.png",
+        "shinyimg" : "https://www.serebii.net/pokemongo/pokemon/shiny/096.png",
+        "normalimg" : "https://www.serebii.net/pokemongo/pokemon/096.png",
         "type" : [
             "Psychic"
         ],
@@ -1210,8 +1210,8 @@
         "id": 97,
         "num" : "097",
         "name" : "Hypno",
-        "shinyimg" : "https://www.serebii.net/Shiny/SWSH/097.png",
-        "normalimg" : "https://www.serebii.net/swordshield/pokemon/097.png",
+        "shinyimg" : "https://www.serebii.net/pokemongo/pokemon/shiny/097.png",
+        "normalimg" : "https://www.serebii.net/pokemongo/pokemon/097.png",
         "type" : [
             "Psychic"
         ],
@@ -1246,8 +1246,8 @@
         "id": 100,
         "num" : "100",
         "name" : "Voltorb",
-        "shinyimg" : "https://www.serebii.net/Shiny/SWSH/100.png",
-        "normalimg" : "https://www.serebii.net/swordshield/pokemon/100.png",
+        "shinyimg" : "https://www.serebii.net/pokemongo/pokemon/shiny/100.png",
+        "normalimg" : "https://www.serebii.net/pokemongo/pokemon/100.png",
         "type" : [
             "Electric"
         ],
@@ -1258,8 +1258,8 @@
         "id": 101,
         "num" : "101",
         "name" : "Electrode",
-        "shinyimg" : "https://www.serebii.net/Shiny/SWSH/101.png",
-        "normalimg" : "https://www.serebii.net/swordshield/pokemon/101.png",
+        "shinyimg" : "https://www.serebii.net/pokemongo/pokemon/shiny/101.png",
+        "normalimg" : "https://www.serebii.net/pokemongo/pokemon/101.png",
         "type" : [
             "Electric"
         ],
